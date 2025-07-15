@@ -1,7 +1,7 @@
 # P vs. NP – A simple breakdown for dummies
 Imagine you woke up on a fine Saturday morning and saw that things are weird - you’re on an alien planet. There’s a billboard that says: “Welcome to the town of truth tellers and liars.” You know you’re in trouble but the only way to know what really happened is to meet the truth tellers.
 
-![](https://sdmntprwestus2.oaiusercontent.com/files/00000000-0d84-61f8-8ee7-40a2d940dca5/raw?se=2025-07-15T06%3A39%3A21Z&sp=r&sv=2024-08-04&sr=b&scid=9dbfdead-6905-584d-b902-446a7ac94817&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-14T13%3A09%3A26Z&ske=2025-07-15T13%3A09%3A26Z&sks=b&skv=2024-08-04&sig=FqSPBOl2lDc5NtPvv7AHyB9KZqHxGUu4%2B2BomyqLGY8%3D)
+![](https://raw.githubusercontent.com/husainsyed/blogs/refs/heads/main/P%20vs%20NP/billboard.png)
 
   
 
@@ -12,7 +12,7 @@ You can only ask one of the three questions:
 - Are you a truth teller or a liar?
 - Which path is your home?
    
-![](https://sdmntprwestus2.oaiusercontent.com/files/00000000-6cfc-61f8-9a9a-76f382823256/raw?se=2025-07-15T07%3A02%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=09706c83-463e-5ddf-8d09-97044a4d7418&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-14T21%3A50%3A37Z&ske=2025-07-15T21%3A50%3A37Z&sks=b&skv=2024-08-04&sig=1o9H5TZTuRH5ix0spJQzDQpJSN%2B6NEjjcToQMfEHyjA%3D)
+![](https://raw.githubusercontent.com/husainsyed/blogs/refs/heads/main/P%20vs%20NP/alien_singular.png)
 The problem with the first two questions is you won’t know for sure whether the alien is lying or not. The last question, however, will always lead to the path of truth seekers? Why? If he’s telling the truth, it points to the town of truth seekers. If he’s lying, he’d still point to the town of truth seekers – so you’re guaranteed to get to the right town.
 
   
@@ -20,7 +20,7 @@ The problem with the first two questions is you won’t know for sure whether th
 Now, let’s make this a little fun. Imagine instead of a simple T-intersection, you run into millions of multi-legged intersections with billions of aliens? Does that make figuring out the problem a little difficult? Maybe impossible?
   
 
-![](https://sdmntprwestus2.oaiusercontent.com/files/00000000-aab0-61f8-b065-d1b73facfc8c/raw?se=2025-07-15T07%3A05%3A02Z&sp=r&sv=2024-08-04&sr=b&scid=c22c152b-314e-5c60-9540-852a3cae45ab&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-15T00%3A35%3A23Z&ske=2025-07-16T00%3A35%3A23Z&sks=b&skv=2024-08-04&sig=zoOfyCYQUwWBglm2aq1NLHvNJuf7PquLIHG2WIjlbDw%3D)
+![](https://raw.githubusercontent.com/husainsyed/blogs/refs/heads/main/P%20vs%20NP/alien_multiple.png)
 
   
 
