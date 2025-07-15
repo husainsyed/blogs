@@ -59,7 +59,3 @@ The bad news:
 
 [![Silicon Valley Clip ](https://raw.githubusercontent.com/husainsyed/blogs/refs/heads/main/P%20vs%20NP/video_thumbnail.png)](https://www.youtube.com/watch?v=cWHTyeQg79A)
 > ▶️ Gilfoyle from Silicon Valley explains the consequences of P=NP.
-
-Oh, you’re still stranded on that alien planet. If P=NP, no matter how many millions of intersections or billions of aliens you encounter, there is always a clever way to get to the city of truth tellers quickly. If P != NP, sorry but you’re stuck there forever.
-
-The million-dollar question is: Are P and NP the same thing? We don't know. (and yes, there's an [actual $1 million prize](https://www.claymath.org/millennium/p-vs-np/) for whoever figures it out)
