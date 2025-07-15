@@ -1,0 +1,71 @@
+# P vs. NP – A simple breakdown for dummies
+Imagine you woke up on a fine Saturday morning and saw that things are weird - you’re on an alien planet. There’s a billboard that says: “Welcome to the town of truth tellers and liars.” You know you’re in trouble but the only way to know what really happened is to meet the truth tellers.
+
+![](https://sdmntprwestus2.oaiusercontent.com/files/00000000-0d84-61f8-8ee7-40a2d940dca5/raw?se=2025-07-15T06%3A39%3A21Z&sp=r&sv=2024-08-04&sr=b&scid=9dbfdead-6905-584d-b902-446a7ac94817&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-14T13%3A09%3A26Z&ske=2025-07-15T13%3A09%3A26Z&sks=b&skv=2024-08-04&sig=FqSPBOl2lDc5NtPvv7AHyB9KZqHxGUu4%2B2BomyqLGY8%3D)
+
+  
+
+You follow the billboard and reach a T-intersection where you meet an alien. One path leads to the town of truth tellers, the other to the town of the liars. You don’t know whether that alien is gonna tell the truth or lie.
+
+You can only ask one of the three questions:
+- Which path leads to the town of truth tellers?
+- Are you a truth teller or a liar?
+- Which path is your home?
+   
+![](https://sdmntprwestus2.oaiusercontent.com/files/00000000-6cfc-61f8-9a9a-76f382823256/raw?se=2025-07-15T07%3A02%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=09706c83-463e-5ddf-8d09-97044a4d7418&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-14T21%3A50%3A37Z&ske=2025-07-15T21%3A50%3A37Z&sks=b&skv=2024-08-04&sig=1o9H5TZTuRH5ix0spJQzDQpJSN%2B6NEjjcToQMfEHyjA%3D)
+The problem with the first two questions is you won’t know for sure whether the alien is lying or not. The last question, however, will always lead to the path of truth seekers? Why? If he’s telling the truth, it points to the town of truth seekers. If he’s lying, he’d still point to the town of truth seekers – so you’re guaranteed to get to the right town.
+
+  
+
+Now, let’s make this a little fun. Imagine instead of a simple T-intersection, you run into millions of multi-legged intersections with billions of aliens? Does that make figuring out the problem a little difficult? Maybe impossible?
+  
+
+![](https://sdmntprwestus2.oaiusercontent.com/files/00000000-aab0-61f8-b065-d1b73facfc8c/raw?se=2025-07-15T07%3A05%3A02Z&sp=r&sv=2024-08-04&sr=b&scid=c22c152b-314e-5c60-9540-852a3cae45ab&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-15T00%3A35%3A23Z&ske=2025-07-16T00%3A35%3A23Z&sks=b&skv=2024-08-04&sig=zoOfyCYQUwWBglm2aq1NLHvNJuf7PquLIHG2WIjlbDw%3D)
+
+  
+
+## Some problems are just hard to solve
+
+We have created clever algorithms for computers to solve complex problems. But some problems are just … hard to solve.
+
+For example,
+- Multiplying two numbers is easy.
+- Finding the most optimal route to deliver Amazon packages is hard.
+- And there are some problems that are extremely hard to solve – like cracking a 60-character password would require trying more combinations than there are atoms in the entire universe (fascinating, isn’t it?).
+
+## P vs. NP
+
+In simple terms, P vs. NP asks the following: “If I can verify the solution of the problem quickly, can the problem be solved quickly as well?”
+
+Let’s understand this concept by a couple of examples:
+
+-   Jigsaw puzzle: It's very easy to see if the jigsaw puzzle is correctly solved or not, but the puzzle itself is hard to solve.
+    
+-   Sudoku: If someone were to give you a solved sudoku, you can very quickly verify if it's correct or not. But can you solve a blank sudoku that fast?
+   
+**P problems** = Problems that are quick to solve (like multiplying 25 × 17).
+**NP problems** = Problems where you can quickly check if someone's answer is right, but solving it yourself might take a long time (like that sudoku or jigsaw puzzle).
+
+Are P and NP the same thing -- Is there always a clever shortcut to solve these hard-to-check problems quickly? Nobody has been able to prove it.
+
+## What if P = NP?
+If someone proves P = NP tomorrow, the world will flip upside down.
+The good news:
+
+- We’ll cure cancer, AIDS, and other incurable diseases.
+- The AI will be able to solve almost any problem
+- Climate change won’t be an issue
+- She'll finally reciprocate my feelings for her
+    
+The bad news:
+
+-   Every password and privacy system would become useless as encryption would be a joke at that point (hacker’s paradise)
+-   Your personal data would be completely exposed
+-   All cryptocurrencies would become worthless
+    
+
+[![Silicon Valley Clip ](https://img.youtube.com/vi/cWHTyeQg79A/0.jpg)](https://www.youtube.com/watch?v=cWHTyeQg79A)
+
+Oh, you’re still stranded on that alien planet. If P=NP, no matter how many millions of intersections or billions of aliens you encounter, there is always a clever way to get to the city of truth tellers quickly. If P != NP, sorry but you’re stuck there forever.
+
+The million-dollar question is: Are P and NP the same thing? We don't know. (and yes, there's an [actual $1 million prize](https://www.claymath.org/millennium/p-vs-np/) for whoever figures it out)
