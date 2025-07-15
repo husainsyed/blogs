@@ -47,7 +47,7 @@ Are P and NP the same thing -- Is there always a clever shortcut to solve these 
 If someone proves P = NP tomorrow, the world will flip upside down.
 
 The good news:
-- We’ll cure cancer, AIDS, and other incurable diseases.
+- We’ll cure cancer, AIDS, and other incurable diseases
 - The AI will be able to solve almost any problem
 - Climate change won’t be an issue
 - She'll finally reciprocate my feelings for her
