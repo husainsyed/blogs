@@ -63,4 +63,4 @@ The bad news:
 
 Oh, you’re still stranded on that alien planet. If P=NP, no matter how many millions of intersections or billions of aliens you encounter, there is always a clever way to get to the city of truth tellers quickly. If P != NP, sorry but you’re stuck there forever.
 
-The million-dollar question is: Are P and NP the same thing? We don't know. (and yes, there's an [actual $1 million prize](https://www.claymath.org/millennium/p-vs-np/) for whoever figures it out)
+The million-dollar question is: Are P and NP the same thing? We don't know. And yes, there's an [actual $1 million prize](https://www.claymath.org/millennium/p-vs-np/) for whoever figures it out.
